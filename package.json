@@ -1,0 +1,32 @@
+{
+  "name": "@magstardev/project-template-generator",
+  "version": "1.0.0",
+  "description": "A project template generator",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bin": "dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaseenrehan123/React-Tailwind-Template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yaseenrehan123/React-Tailwind-Template/issues"
+  },
+  "homepage": "https://github.com/yaseenrehan123/React-Tailwind-Template#readme",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "figlet": "^1.8.2",
+    "inquirer": "^12.9.2",
+    "nanospinner": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.7.0",
+    "@types/node": "^24.3.0"
+  }
+}
