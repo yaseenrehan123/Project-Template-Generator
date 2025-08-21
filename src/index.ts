@@ -40,8 +40,8 @@ async function main() {
                     value: 'reactShadcnTemplate'
                 },
                 {
-                    name: chalk.cyan('React-Backend-Template'),
-                    value: 'reactBackendTemplate'
+                    name: chalk.cyan('Backend-Template'),
+                    value: 'backendTemplate'
                 },
                 {
                     name: chalk.whiteBright('React-Fullstack-Template'),
