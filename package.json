@@ -1,6 +1,6 @@
 {
   "name": "@magstardev/project-template-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A project template generator",
   "main": "dist/index.js",
   "scripts": {
