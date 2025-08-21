@@ -58,7 +58,7 @@ async function main() {
             reactRouterTemplate: '',
             reactRouterTailwindTemplate: '',
             reactShadcnTemplate: 'https://github.com/yaseenrehan123/react-shadcn-template.git',
-            reactBackendTemplate: '',
+            backendTemplate: 'https://github.com/yaseenrehan123/backend-template.git',
             reactFullstackTemplate: 'https://github.com/yaseenrehan123/fullstack-template.git'
         };
         const repo = repoMap[projectTemplate];

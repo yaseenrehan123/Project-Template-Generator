@@ -4,7 +4,7 @@ export type RepoMap = {
     reactRouterTemplate:string,
     reactRouterTailwindTemplate:string,
     reactShadcnTemplate:string,
-    reactBackendTemplate:string,
+    backendTemplate:string,
     reactFullstackTemplate:string
 }
 export type Answers = {
